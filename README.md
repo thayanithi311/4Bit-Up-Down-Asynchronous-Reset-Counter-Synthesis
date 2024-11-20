@@ -75,7 +75,7 @@ used.
 ![IMG-20241119-WA0023](https://github.com/user-attachments/assets/da141afc-3e2c-42b3-bead-da74b26a9f4f)
 
 #### Timing Report: 
-![IMG-20241119-WA0052](https://github.com/user-attachments/assets/1252d34a-1cfd-4ee8-a3a0-c87a6f38ef5c)
+![Screenshot (63)](https://github.com/user-attachments/assets/90defb1d-b184-42d8-9984-5bca5b97bcf8)
 
 #### Result: 
 
